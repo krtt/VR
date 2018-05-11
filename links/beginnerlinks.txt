@@ -1,0 +1,22 @@
+Code examples:
+https://answers.unity.com/questions/697660/rigidbody-based-spaceship.html
+https://forum.unity.com/threads/physics-based-flight-script-hard-to-control-though.130413/
+https://www.youtube.com/watch?v=u7xxxwDCxC8 (roll, pitch, yaw vectors, forces for tiny glider short & simple - 7 min 52 s)
+https://www.youtube.com/watch?v=yhMjeOGKDtk (fly camera for tiny glider short & simple - 5 min 56 s)
+https://github.com/brihernandez/ArcadeSpaceFlightExample (flight physics code for this tiny spaceship: https://www.youtube.com/watch?v=qCDLWOOjdEE)
+
+
+Xbox controls:
+https://answers.unity.com/questions/1350081/xbox-one-controller-mapping-solved.html
+http://wiki.unity3d.com/index.php?title=Xbox360Controller
+
+Unity tutorials:
+http://docs.unity3d.com/Documentation/ScriptReference/Input.GetAxis.html
+http://docs.unity3d.com/Documentation/ScriptReference/Rigidbody.AddForce.html
+http://docs.unity3d.com/Documentation/ScriptReference/Rigidbody.AddTorque.html
+https://docs.unity3d.com/ScriptReference/Transform-forward.html
+https://docs.unity3d.com/Manual/class-InputManager.html
+https://docs.unity3d.com/Manual/class-Rigidbody.html
+
+Other tutorials:
+https://www.acemgaming.com/unity-physics-basics.html
