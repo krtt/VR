@@ -4,6 +4,8 @@ https://forum.unity.com/threads/physics-based-flight-script-hard-to-control-thou
 https://www.youtube.com/watch?v=u7xxxwDCxC8 (roll, pitch, yaw vectors, forces for tiny glider short & simple - 7 min 52 s)
 https://www.youtube.com/watch?v=yhMjeOGKDtk (fly camera for tiny glider short & simple - 5 min 56 s)
 https://github.com/brihernandez/ArcadeSpaceFlightExample (flight physics code for this tiny spaceship: https://www.youtube.com/watch?v=qCDLWOOjdEE)
+https://docs.unity3d.com/ScriptReference/Debug.DrawLine.html (didn't get to work)
+https://forum.unity.com/threads/how-to-display-a-variable-value-on-screen.282725/ 
 
 
 Xbox controls:
@@ -20,3 +22,7 @@ https://docs.unity3d.com/Manual/class-Rigidbody.html
 
 Other tutorials:
 https://www.acemgaming.com/unity-physics-basics.html
+
+Flight sims:
+https://www.youtube.com/watch?v=lCulq9J0Y9E (looks like smth I want but no physics used)
+https://www.youtube.com/watch?v=pmu0audtqi4 (best example of what I want so far, incl physics)
